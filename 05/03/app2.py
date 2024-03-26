@@ -1,0 +1,7 @@
+n1= int (input("coloque o primeiro número "))
+n2= int(input("coloque o Segundo número "))
+print(n1+n2)
+print(n1-n2)
+print(n1/n2)
+print(n1*n2)
+print(n1%n2)
